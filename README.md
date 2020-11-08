@@ -6,7 +6,7 @@ Horiseon is a Social Service Solution company with a focus in Marketing and Sear
 
 By working with HTML and CSS in VSCode, I was able to make sure all elements in the code cooperated with each other in the correct way. In regards to CSS, I was so meticulous in writing my code that I chose to edit all of CSS on my own to make sure it worked perfectly, though it may be interesting to integrate Bootstrap in the future to see what sort of additions that could create.
 
-[Link]https://margaretelson.github.io/Horiseon_Marketing_Website/
+https://margaretelson.github.io/Horiseon_Marketing_Website/
 
 ## Built With
 
@@ -23,7 +23,6 @@ The following features were used in creating this website:
   * git pull
 * GitHub
 
-![Image](./assets/images/HMBrowserImage.jpg)
 
 ## Installation
 
